@@ -1,2 +1,2 @@
 # rootfolder
-en kopi af min rootfolder skabelon
+En kopi af min rootfolder skabelon
